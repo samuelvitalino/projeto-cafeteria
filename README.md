@@ -1,8 +1,4 @@
-Com certeza\! Analisei o código do seu projeto de cafeteria e preparei um README completo para você.
-
------
-
-# Projeto Cafeteria - Café & Brisa
+# Projeto Cafeteria
 
 Este é um sistema de gestão para uma cafeteria, desenvolvido em Java com interface gráfica Swing e banco de dados MySQL.
 
